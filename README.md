@@ -12,15 +12,16 @@ I love solving complex problems at the intersection of **technology and innovati
 
 ## ⚙️ Technologies & Tools
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![VHDL](https://img.shields.io/badge/-VHDL-FF9900?style=flat-square)
-![Embedded Systems](https://img.shields.io/badge/-Embedded_Systems-000000?style=flat-square&logo=raspberrypi)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
+![VHDL](https://img.shields.io/badge/-VHDL-FF9900?style=for-the-badge)
+![Embedded Systems](https://img.shields.io/badge/-Embedded_Systems-000000?style=for-the-badge&logo=raspberrypi)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
+![STM32](https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=stmicroelectronics)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3)
+
 
 ## 📫 Connect With Me
 
