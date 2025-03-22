@@ -4,7 +4,7 @@ I’m a **Computer Engineering student at the University of Waterloo** passionat
 I love solving complex problems at the intersection of **technology and innovation**.
 
 
-- 🔭 Passionate about STEM, especially computer science, and how it can solve real-world problems.
+- 🔭 Passionate about computer science, and how it can solve real-world problems.
 - 💡 Worked on diverse projects, such as using machine learning for predictive diagnosis in healthcare.
 - 🖥️ Experienced in **C++, Python, Java, HTML, and CSS**
 - 📚 Exploring **computational problem-solving and advanced algorithms**
@@ -25,7 +25,8 @@ I love solving complex problems at the intersection of **technology and innovati
 
 ## 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-bhavanipotdar29@gmail.com-red?style=flat-square&logo=gmail)](mailto:bhavanipotdar29@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhavani-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bhavani-potdar/)
+[![Email](https://img.shields.io/badge/Email-bhavanipotdar29@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:bhavanipotdar29@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhavani-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhavani-potdar/)
+
 
 
