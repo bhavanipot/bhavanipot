@@ -5,7 +5,7 @@ I love solving complex problems at the intersection of **technology and innovati
 
 
 - 🔭 Passionate about computer science, and how it can solve real-world problems.
-- 🖥️ Experienced in **C++, Python, Java, HTML, and CSS**
+- 🖥️ Experienced in **Python, C, C++, Java, and AI/ML Development**
 - 📚 Exploring **computational problem-solving and advanced algorithms**
 - ✨ Excited to take on new challenges and continuously learn new skills. Enjoy collaborating with others and exploring ways to leverage technology to make a positive impact.
 
