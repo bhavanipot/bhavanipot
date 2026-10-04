@@ -23,7 +23,9 @@ I love solving complex problems at the intersection of **technology and innovati
 
 ## 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-bpotdar@uwaterloo.ca-red?style=for-the-badge&logo=gmail)](mailto:bpotdar@uwaterloo.ca)
+Feel free to reach out at **bpotdar@uwaterloo.ca**, or connect with me on LinkedIn!
+
+[![Email](https://img.shields.io/badge/Email-bhavanipotdar29@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:bhavanipotdar29@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhavani-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhavani-potdar/)
 
 
